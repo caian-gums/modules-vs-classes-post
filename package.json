@@ -1,0 +1,15 @@
+{
+  "name": "modules-vs-classes-post",
+  "description": "Module Pattern and Class Comparision Example Code for Post",
+  "version": "1.0.0",
+  "author": "@caian-gums <ile.caian@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+      "test": "jest --verbose",
+      "coverage": "jest --verbose --coverage"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
