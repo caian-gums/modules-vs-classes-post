@@ -1,6 +1,6 @@
 # Module Pattern vs Classes Comparision
 
-[Click here to access the respective post about this repo](https://dev.to/caiangums/)
+[Click here to access the respective post about this repo](https://dev.to/caiangums/modules-vs-classes-how-to-manage-privacy-in-js-3gch)
 
 This repo contains example code and tests for the respective post comparing
 
